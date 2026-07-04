@@ -1,0 +1,5 @@
+2026-07-04 15:57:12 | INFO     | Job start
+2026-07-04 15:57:12 | INFO     | Config loaded + validated | seed=42 window=5 version=v1
+2026-07-04 15:57:12 | ERROR    | Validation error: Input file not found: nope.csv
+2026-07-04 15:57:12 | INFO     | Metrics written to err.json
+2026-07-04 15:57:12 | INFO     | Job end | status=error

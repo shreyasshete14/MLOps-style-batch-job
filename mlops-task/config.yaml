@@ -1,0 +1,7 @@
+# config.yaml
+# Configuration for the batch signal-generation job.
+# All three fields below are REQUIRED and validated by run.py.
+
+seed: 42        # random seed -> guarantees deterministic / reproducible runs
+window: 5       # rolling-mean window size (in rows) applied to the 'close' column
+version: "v1"   # config/job version, echoed back in metrics.json

@@ -1,0 +1,8 @@
+2026-07-04 15:59:38 | INFO     | Job start
+2026-07-04 15:59:38 | INFO     | Config loaded + validated | seed=42 window=5 version=v1
+2026-07-04 15:59:39 | INFO     | Rows loaded: 10000
+2026-07-04 15:59:39 | INFO     | Rolling mean computed | window=5 | NaN rows (warm-up)=4
+2026-07-04 15:59:39 | INFO     | Signal generation complete | valid signals=9996
+2026-07-04 15:59:39 | INFO     | Metrics summary | rows_processed=10000 signal_rate=0.4991 latency_ms=114
+2026-07-04 15:59:39 | INFO     | Metrics written to metrics.json
+2026-07-04 15:59:39 | INFO     | Job end | status=success
